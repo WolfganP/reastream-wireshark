@@ -1,9 +1,9 @@
 # reastream-wireshark
 Wireshark dissector for the Reastream protocol, written in LUA
 
-The file reastream.lua should be copied to an appropriate plugins directory for Wireshark.
+The file 'reastream.lua' should be copied to an appropriate plugins directory for Wireshark.
 Under Windows
 
-For the current user only, copy to %USERPROFILE%\AppData\Roaming\Wireshark\plugins\
+For the current user only, copy to '%USERPROFILE%\AppData\Roaming\Wireshark\plugins\'
 
-For all users on the system, copy to c:\Program Files\Wireshark\plugins\
+For all users on the system, copy to 'c:\Program Files\Wireshark\plugins\'
