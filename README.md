@@ -7,3 +7,8 @@ Under Windows
 For the current user only, copy to `%USERPROFILE%\AppData\Roaming\Wireshark\plugins\`
 
 For all users on the system, copy to `c:\Program Files\Wireshark\plugins\`
+
+Sample screen:
+
+
+![Wireshark-reastream-prot-display](https://github.com/WolfganP/reastream-wireshark/blob/master/.meta/Wireshark-reastream-prot-display.jpg)
